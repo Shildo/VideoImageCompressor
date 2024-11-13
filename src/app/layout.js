@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Compression Api",
-  description: "This is my compression api for videos and images",
+  title: "Comp-Api",
+  description: "This is the compression api for videos and images",
 };
 
 export default function RootLayout({ children }) {
